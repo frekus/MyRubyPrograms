@@ -1,8 +1,13 @@
-print "Hello World"
-print " and fellows"
+# print "Hello World"
+# print " and fellows"
+#
+# puts "Hello World"
+# puts "and fellows"
+#
+# p "Hello World"
+# p "and fellows"
 
-puts "Hello World"
-puts "and fellows"
+# puts ("Unary")
+# puts (+30 + -6)
 
-p "Hello World"
-p "and fellows"
+puts (14+4-9/2+9*2+1-12)
